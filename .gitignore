@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.codex-ppt-build/
+output/
+tmp/
+.pytest_cache/
+create_resume.py
